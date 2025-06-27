@@ -1,1 +1,3 @@
-# product-app
+# product_app
+
+A new Flutter project.
